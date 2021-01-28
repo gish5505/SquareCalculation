@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\bin\Debug\SquareCalculation.dll
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\bin\Debug\SquareCalculation.pdb
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\SquareCalculation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\SquareCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\SquareCalculation.dll
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\SquareCalculation.pdb
