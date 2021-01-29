@@ -1,0 +1,15 @@
+-- Table: public.Product
+
+-- DROP TABLE public."Product";
+
+CREATE TABLE public."Product"
+(
+    "ID" integer NOT NULL GENERATED ALWAYS AS IDENTITY ( INCREMENT 1 START 1 MINVALUE 1 MAXVALUE 2147483647 CACHE 1 ),
+    "ProductName" character varying COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT "Product name_pkey" PRIMARY KEY ("ID")
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."Product"
+    OWNER to postgres;

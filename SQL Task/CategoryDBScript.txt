@@ -1,0 +1,15 @@
+-- Table: public.Category
+
+-- DROP TABLE public."Category";
+
+CREATE TABLE public."Category"
+(
+    "ID" integer NOT NULL GENERATED ALWAYS AS IDENTITY ( INCREMENT 1 START 1 MINVALUE 1 MAXVALUE 2147483647 CACHE 1 ),
+    "CategoryName" character varying COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT "Category name_pkey" PRIMARY KEY ("ID")
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public."Category"
+    OWNER to postgres;
